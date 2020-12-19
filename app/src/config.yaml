@@ -1,0 +1,22 @@
+token: "NzQyMjc3MzEzNzY0MjYxOTQ4.XzDxng.QyZfb3llEnlobT1dseQbbxKclbs"
+prefix: "hbl"
+guilds:
+    main: "780383993849184256"
+    testing: "787557615110324224"
+channels:
+    logs: "781395541987950613"
+    invite: "https://discord.gg/W2JxAb5q9W"
+roles:
+    website: "781395505439571969"
+    tester: "781395505439571969"
+    bots: "781395509117845504"
+    developers: "603543838681989141"
+port: 3000
+color: 0x7289da
+bot:
+    id: "742277313764261948"
+    secret: ""
+    redirect: "https://hypersbotlists.glitch.me/auth/callback"
+    scopes:
+        - identify
+        - guilds.join
